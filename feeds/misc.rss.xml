@@ -1,2 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technical Memorandum</title><link>http://thatsdone.github.io/</link><description></description><atom:link href="http://thatsdone.github.io/feeds/misc.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 29 Nov 2013 23:55:00 +0900</lastBuildDate><item><title>pelican update</title><link>http://thatsdone.github.io/posts/2013/11/pelican-update/</link><description>&lt;p&gt;pelican を 3.3.3.dev にアップデートしてみた&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Masanori Itoh</dc:creator><pubDate>Fri, 29 Nov 2013 23:55:00 +0900</pubDate><guid>tag:thatsdone.github.io,2013-11-29:posts/2013/11/pelican-update/</guid></item><item><title>日本語テスト</title><link>http://thatsdone.github.io/posts/2013/11/japanese-test/</link><description>&lt;p&gt;これは日本語テストです。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Masanori Itoh</dc:creator><pubDate>Thu, 28 Nov 2013 23:55:00 +0900</pubDate><guid>tag:thatsdone.github.io,2013-11-28:posts/2013/11/japanese-test/</guid></item><item><title>Welcome All</title><link>http://thatsdone.github.io/posts/2013/11/welcome-all/</link><description>&lt;p&gt;これはテストです。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Masanori Itoh</dc:creator><pubDate>Tue, 19 Nov 2013 09:00:00 +0900</pubDate><guid>tag:thatsdone.github.io,2013-11-19:posts/2013/11/welcome-all/</guid><category>misc</category></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technical Memorandum</title><link>http://thatsdone.github.io/</link><description></description><atom:link href="http://thatsdone.github.io/feeds/misc.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 30 Nov 2013 22:27:00 +0900</lastBuildDate><item><title>markdown の動作確認</title><link>http://thatsdone.github.io/posts/2013/11/trial-and-error-1130/</link><description>&lt;p&gt;gitpages へ引っ越そうとしているのだが、いろいろ手さぐり状態で困惑中。&lt;/p&gt;
+&lt;p&gt;とりあえず、markdown のチェック...というか、練習。&lt;/p&gt;
+&lt;p&gt;syntax については ここにあるらしい。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sourceforge.net/p/pelican-edt/wiki/markdown_syntax/"&gt;http://sourceforge.net/p/pelican-edt/wiki/markdown_syntax/&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;タイトル&lt;/h1&gt;
+&lt;h2&gt;サブタイトル&lt;/h2&gt;
+&lt;p&gt;コードブロック&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;static&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;String&lt;/span&gt;&lt;span class="o"&gt;[]&lt;/span&gt; &lt;span class="n"&gt;args&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+       &lt;span class="n"&gt;System&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;out&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;println&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Hello, World!&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;番号付き箇条書き&lt;ul&gt;
+&lt;li&gt;箇条書き&lt;ul&gt;
+&lt;li&gt;箇条書き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;箇条書き&lt;ul&gt;
+&lt;li&gt;箇条書き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;番号付き箇条書き&lt;/li&gt;
+&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Masanori Itoh</dc:creator><pubDate>Sat, 30 Nov 2013 22:27:00 +0900</pubDate><guid>tag:thatsdone.github.io,2013-11-30:posts/2013/11/trial-and-error-1130/</guid></item><item><title>pelican update</title><link>http://thatsdone.github.io/posts/2013/11/pelican-update/</link><description>&lt;p&gt;pelican を 3.3.3.dev にアップデートしてみた&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Masanori Itoh</dc:creator><pubDate>Fri, 29 Nov 2013 23:55:00 +0900</pubDate><guid>tag:thatsdone.github.io,2013-11-29:posts/2013/11/pelican-update/</guid></item><item><title>日本語テスト</title><link>http://thatsdone.github.io/posts/2013/11/japanese-test/</link><description>&lt;p&gt;これは日本語テストです。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Masanori Itoh</dc:creator><pubDate>Thu, 28 Nov 2013 23:55:00 +0900</pubDate><guid>tag:thatsdone.github.io,2013-11-28:posts/2013/11/japanese-test/</guid></item><item><title>Welcome All</title><link>http://thatsdone.github.io/posts/2013/11/welcome-all/</link><description>&lt;p&gt;これはテストです。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Masanori Itoh</dc:creator><pubDate>Tue, 19 Nov 2013 09:00:00 +0900</pubDate><guid>tag:thatsdone.github.io,2013-11-19:posts/2013/11/welcome-all/</guid><category>misc</category></item></channel></rss>
